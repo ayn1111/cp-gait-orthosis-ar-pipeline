@@ -1,0 +1,14 @@
+# Data: never upload participant recordings
+*.mat
+*.csv
+*.c3d
+*.bag
+*.db3
+*.mcap
+*.txt
+data/
+
+# MATLAB temporary files
+*.asv
+*.m~
+slprj/
